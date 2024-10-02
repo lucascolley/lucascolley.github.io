@@ -9,15 +9,19 @@ some [music] that I like, or read some cool quotes:
 
 > When education is not liberating,
 > the dream of the oppressed is to become the oppressor.
+
 *-- Paulo Freire*
 
 > How come I ain't got no money here? Hmm! Whitey's on the moon.
-*-- Gil Scott-Heron, [Whitey on the Moon]
+
+*-- Gil Scott-Heron, [Whitey on the Moon]*
 
 > If you have a verbal commitment to democracy, you've got a real big problem justifying capitalism.
+
 *-- Richard D. Wolff*
 
 > The revolution will not be televised ... The revolution will be live.
+
 *-- Gil Scott-Heron*
 
 [about me]: ./about/
