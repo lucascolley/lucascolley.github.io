@@ -1,5 +1,5 @@
 Here are some music artists that I like listening to
-and a song by each:
+and a track by each:
 
 - MIKE - [In My World]
 - King Krule - [Rock Bottom - Live]
