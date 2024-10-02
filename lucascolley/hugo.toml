@@ -2,3 +2,13 @@ baseURL = "https://lucascolley.github.io"
 languageCode = "en-GB"
 title = "Lucas Colley"
 theme = "PaperMod"
+
+[params]
+defaultTheme = "auto"
+showCodeCopyButtons = true
+showShareButtons = true
+
+# Shown on the home page
+socialIcons = [
+    { name = "github", url = "https://github.com/lucascolley" },
+]
