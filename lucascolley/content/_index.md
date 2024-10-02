@@ -4,6 +4,8 @@ For details of my Education and Experience, check out [my LinkedIn].
 
 To explore my contributions to software for Open Science, check out [my GitHub].
 
+---
+
 Besides the professional/technical stuff, you might like to check out
 some [music] that I like, or read some cool quotes:
 

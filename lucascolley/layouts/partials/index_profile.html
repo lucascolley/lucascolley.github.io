@@ -3,9 +3,9 @@
         <h1 class="post-title">Hi, I'm Lucas 👋</h1>
     </header>
     <div class="post-content">
+        {{- partial "social_icons.html" -}}
         {{- if not (.Param "disableAnchoredHeadings") }}
         {{- partial "anchored_headings.html" .Content -}}
         {{- else }}{{ .Content }}{{ end }}
-        {{- partial "social_icons.html" -}}
     </div>
 </article>
