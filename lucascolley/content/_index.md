@@ -18,7 +18,8 @@ some [music] that I like, or read some cool quotes:
 
 *-- Gil Scott-Heron, [Whitey on the Moon]*
 
-> If you have a verbal commitment to democracy, you've got a real big problem justifying capitalism.
+> If you have a verbal commitment to democracy,
+> you got a real big problem justifying capitalism.
 
 *-- Richard D. Wolff*
 
