@@ -5,10 +5,20 @@ theme = "PaperMod"
 
 [params]
 defaultTheme = "auto"
-showCodeCopyButtons = true
-showShareButtons = true
 
 # Shown on the home page
 socialIcons = [
     { name = "github", url = "https://github.com/lucascolley" },
 ]
+
+# Configure the home page
+[params.profileMode]
+enabled = true
+
+# Site-wide navigation
+[[menu.main]]
+weight = 1
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about/"
