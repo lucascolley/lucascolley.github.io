@@ -4,6 +4,7 @@
     </header>
     <div class="post-content">
         {{- partial "social_icons.html" -}}
+        <br>
         {{- if not (.Param "disableAnchoredHeadings") }}
         {{- partial "anchored_headings.html" .Content -}}
         {{- else }}{{ .Content }}{{ end }}
