@@ -1,0 +1,12 @@
+[project]
+authors = ["Lucas Colley <lucas.colley8@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "lucascolley.github.io"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+hugo = ">=0.135.0,<0.136"

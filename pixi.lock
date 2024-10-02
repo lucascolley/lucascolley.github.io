@@ -1,0 +1,24 @@
+version: 5
+environments:
+  default:
+    channels:
+    - url: https://conda.anaconda.org/conda-forge/
+    packages:
+      osx-arm64:
+      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/hugo-0.135.0-hd74edd7_2.conda
+packages:
+- kind: conda
+  name: hugo
+  version: 0.135.0
+  build: hd74edd7_2
+  build_number: 2
+  subdir: osx-arm64
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/hugo-0.135.0-hd74edd7_2.conda
+  sha256: 60573622a4efc54e8e91f13d55c2bbbc307a6a6a7d18aeceff3cba03087192db
+  md5: 4ab0f38b9292b652fc6aea876199fc3b
+  depends:
+  - __osx >=11.0
+  license: Apache-2.0
+  license_family: APACHE
+  size: 19157410
+  timestamp: 1727769788575
