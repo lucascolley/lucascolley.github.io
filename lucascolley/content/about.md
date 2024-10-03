@@ -82,7 +82,7 @@ in the wider university:
 
 ## Open Source Software
 
-*Work in progress.*
+{{< AboutList "open-source" >}}
 
 ## Career Interests
 

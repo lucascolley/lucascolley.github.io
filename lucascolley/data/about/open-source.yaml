@@ -1,0 +1,42 @@
+- thing: SciPy
+  detail: Maintainer
+  timeline: 2024 - Now
+  link: https://github.com/scipy/scipy
+  description: |-
+    I am a maintainer of SciPy, one of the most important and widely used
+    software libraries for science and engineering.
+
+- thing: EuroSciPy 2024
+  detail: Speaker
+  link: https://euroscipy.org/2024/
+  description: |-
+    I gave a talk about my work on 'The Array API Standard in SciPy' in
+    Szczecin, Poland.
+
+- thing: NumFOCUS Summit 2024
+  detail: Project Representative (SciPy)
+  link: https://www.nfsummit24.com
+  description: |-
+    I represented SciPy in discussions with developers across many NumFOCUS projects
+    in Cambridge, Massachusets.
+
+- thing: Quansight Labs
+  detail: Intern
+  timeline: 2023 - 2023
+  link: https://labs.quansight.org
+  description: |-
+    I worked on interoperability in the Scientific Python Ecosystem,
+    with significant contributions made towards SciPy's support for
+    the array API standard, under the mentorship of
+    [Dr Ralf Gommers](https://rgommers.github.io),
+    [Dr Pamphile Roy](https://github.com/tupui),
+    and [Dr Irwin Zaid](https://github.com/izaid).
+
+- thing: Other Open Source Projects
+  detail: Contributor
+  timeline: 2023 - Now
+  link: https://github.com/lucascolley
+  description: |-
+    I have contributed to various Open Source Software Projects,
+    including the array API standard, array-api-compat, array-api-strict,
+    NumPy, Dask, and the Scientific Python Project.
