@@ -95,7 +95,7 @@ empower workers and grassroots community organisations in the face of corporate 
 ## Other Interests
 
 In my free time, I enjoy contributing to [Open Source Software](#open-source-software),
-listening to [music](../music.md), running, playing football and pool, and video games.
+listening to [music](../music/), running, playing football and pool, and video games.
 
 I am broadly interested in politics, particularly in politics which aims to
 reduce inequality, increase democracy, and foster peace.
