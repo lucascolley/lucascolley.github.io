@@ -37,3 +37,7 @@ some [music] that I like, or read some cool quotes:
 [my GitHub]: https://github.com/lucascolley
 [music]: ./music
 [Whitey on the Moon]: https://youtu.be/otwkXZ0SmTs?si=hbdPYEgxrwgLad6S
+
+---
+
+The design of this website was heavily inspired by https://pradyunsg.me.
