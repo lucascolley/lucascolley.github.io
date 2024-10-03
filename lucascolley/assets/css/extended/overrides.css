@@ -1,0 +1,211 @@
+/* Tweak the colors and spacing */
+:root {
+    /* For the blog posts entries */
+    --entry: var(--theme);
+    /* Spacing */
+    --content-gap: 1rem;
+}
+
+/* Add a bit of orange accent to the page, via the links */
+:root {
+    --accent: #FC4C02;
+}
+
+.dark {
+    --accent: #FC4C02;
+}
+
+body {
+    line-height: 1.5;
+}
+
+body .post-content a,
+body .post-description a {
+    color: inherit;
+    text-decoration-color: var(--accent);
+}
+
+a:hover,
+body .footer a:hover,
+body .post-content a:hover,
+body .post-description a:hover {
+    color: var(--accent);
+    text-decoration-color: var(--accent);
+}
+
+/* Respect user's typography */
+body {
+    font-size: 1rem;
+}
+
+/* Make all pages look the same */
+.list {
+    background: var(--theme);
+}
+
+/* Make post entries (in page list) look nicer */
+.post-entry {
+    border: none;
+    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.05),
+        0 0 0.0625rem rgba(0, 0, 0, 0.1);
+}
+
+/* Make navigation look nicer */
+.paginav {
+    background: var(--theme);
+    border: none;
+    display: flex;
+    align-items: center;
+}
+
+.paginav a {
+    line-height: normal;
+    padding: var(--gap);
+}
+
+/* Tweak spacing */
+.post-footer {
+    margin-top: calc(var(--gap) * 2);
+}
+
+.post-content code {
+    margin: auto;
+}
+
+.post-content li {
+    margin-top: 0.125rem;
+}
+
+.post-content ul>li>ul {
+    margin-bottom: 0;
+}
+
+/* Nicer links */
+.post-content a,
+.post-content a code {
+    box-shadow: none;
+}
+
+.post-content a,
+.post-description a {
+    text-decoration: underline;
+    text-decoration-color: var(--tertiary);
+}
+
+.post-content a:hover,
+.post-description a:hover {
+    text-decoration-color: var(--content);
+}
+
+/* Spacing for definition lists */
+.post-content dl {
+    margin-top: 1.5rem;
+}
+
+.post-content dd p {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+/* For the /about/ page */
+.about-list {
+    display: grid;
+    grid-template-columns: 15% auto;
+    grid-column-gap: 2.25rem;
+    grid-row-gap: 1.5rem;
+}
+
+.about-item {
+    display: contents;
+}
+
+.about-item--context {
+    opacity: 0.5;
+}
+
+.about-item--context a {
+    text-decoration: none;
+}
+
+.about-item--context {
+    transition: opacity ease-in-out 0.125s;
+}
+
+.about-item:hover .about-item--context,
+.about-item:hover .about-item--detail,
+.about-item:hover .about-item--description {
+    opacity: 1;
+}
+
+.about-item--title {
+    font-weight: bold;
+}
+
+.about-item--link svg {
+    margin-left: 0.25rem;
+    height: 1em;
+    width: 1em;
+}
+
+.about-item--description {
+    margin-top: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .about-list {
+        grid-template-columns: auto;
+        grid-row-gap: 0;
+    }
+
+    .about-item {
+        display: block;
+        margin-bottom: 2.25rem;
+    }
+}
+
+/* For the custom landing page */
+body .post-content .social-icons a {
+    text-decoration: none;
+}
+
+/* 404 page */
+/* .page-not-found {
+    text-align: center;
+} */
+
+/* Footnotes plz */
+/* .footnotes {
+    font-size: 0.875rem;
+}
+
+.footnotes li {
+    opacity: 0.8;
+    margin-top: 1rem;
+}
+
+.footnotes li:hover {
+    opacity: 1;
+}
+
+.footnotes li p {
+    margin-bottom: 0.25rem;
+}
+
+.footnotes li:target {
+    opacity: 1;
+    background: var(--border);
+}
+
+.share-buttons {
+    justify-content: left;
+    align-items: center;
+    background: unset;
+    border: none;
+}
+
+.share-buttons-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
