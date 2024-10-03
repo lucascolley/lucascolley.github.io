@@ -58,17 +58,22 @@ under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Alesia Priete],
 [Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
 
+[I was awarded](https://www.cs.ox.ac.uk/news/2322-full.html) the
+Department of Computer Science Group Project Prize in 2024 for my work on
+Project OxFolder.
+
 In my college, I have held the following positions:
 
 - Undergraduate Vice-President (current)
 - Undergraduate Access Officer
+- Access Tutor
 - Captain of the Men's Football 2nd XI
 
 [My LinkedIn] contains descriptions of these roles.
 
 [My LinkedIn]: https://www.linkedin.com/in/lucascolley0/
 
-I've also been involved in small amounts with the following groups
+I have also been involved in small amounts with the following groups
 in the wider university:
 
 - Food Rescuers (Secretary)
@@ -89,4 +94,8 @@ empower workers and grassroots community organisations in the face of corporate 
 
 ## Other Interests
 
-*Work in progress.*
+In my free time, I enjoy contributing to [Open Source Software](#open-source-software),
+listening to [music](./music.md), running, playing football and pool, and video games.
+
+I am broadly interested in politics, particularly in politics which aims to
+reduce inequality, increase democracy, and foster peace.
