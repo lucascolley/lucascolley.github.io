@@ -7,6 +7,7 @@ platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+hugo = { cmd = "hugo", cwd = "lucascolley" }
 
 [dependencies]
 hugo = ">=0.135.0,<0.136"

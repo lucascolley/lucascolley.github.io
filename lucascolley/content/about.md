@@ -13,13 +13,13 @@ See [Oxford](#oxford).
 
 I am also a maintainer of [SciPy], an Open Source Python library providing
 fundamental algorithms for Science and Engineering.
-See [Open Source](#open-source-software).
+See [Open Source Software](#open-source-software).
 
 [SciPy]: https://scipy.org
 
 ---
 
-## Oxford
+## Oxford
 
 *Work in progress.*
 
