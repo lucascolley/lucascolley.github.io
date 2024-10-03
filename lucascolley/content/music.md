@@ -1,3 +1,10 @@
+---
+title: "Some Music I Like"
+layout: single
+showReadingTime: false
+modified: 2024-10-03
+---
+
 Here are some music artists that I like listening to
 and a track by each:
 
