@@ -5,8 +5,6 @@ showReadingTime: false
 modified: 2024-10-03
 ---
 
-*This page is a work in progress.*
-
 ![A photo of me](/lucas-headshot.jpg)
 
 I am an undergraduate student in my third year of studying
@@ -17,14 +15,78 @@ I am also a maintainer of [SciPy], an Open Source Python library providing
 fundamental algorithms for Science and Engineering.
 See [Open Source Software](#open-source-software).
 
+See also my [career interests](#career-interests), [other interests](#other-interests),
+and how you can [contact me](#contact-me).
+
 [SciPy]: https://scipy.org
 
 ---
 
 ## Oxford
 
-*Work in progress.*
+I am studying Computer Science & Philosophy at Christ Church, University of Oxford.
+I am also the Undergraduate Vice-President at Christ Church.
+
+I have studied the following Computer Science courses:
+
+    Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
+    Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
+    Functional Programming, Imperative Programming, Concurrent Programming,
+    Computer Security
+
+under [Dr Irwin Zaid], [Dr Lars Kunze], [Dr Andrey Kravchenko], [Dr Graham Benham],
+and [Dr Murad Banaji].
+
+[Dr Irwin Zaid]: https://www.chch.ox.ac.uk/people/dr-irwin-zaid
+[Professor Lars Kunze]: https://people.uwe.ac.uk/Person/LarsKunze
+[Dr Andrey Kravchenko]: https://www.chch.ox.ac.uk/people/dr-andrey-kravchenko
+[Dr Graham Benham]: https://people.ucd.ie/graham.benham
+[Dr Murad Banaji]: https://muradbanaji.github.io
+
+I have studied the following Philosophy courses:
+
+    General Philosophy, Turing on Computability and Intelligence,
+    Early Modern Philosophy (Descartes & Hume), Elements of Deductive Logic,
+    Philosophical Logic
+
+under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Alesia Priete],
+[Dr Nick Tasker], and [Dr Theodor Nenu].
+
+[Dr Fabian Pregel]: https://www.fabianpregel.net
+[Professor Peter Millican]: https://www.millican.org
+[Dr Alesia Priete]: https://alesiapreite.com
+[Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
+[Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
+
+In my college, I have held the following positions:
+
+- Undergraduate Vice-President (current)
+- Undergraduate Access Officer
+- Captain of the Men's Football 2nd XI
+
+[My LinkedIn] contains descriptions of these roles.
+
+[My LinkedIn]: https://www.linkedin.com/in/lucascolley0/
+
+I've also been involved in small amounts with the following groups
+in the wider university:
+
+- Food Rescuers (Secretary)
+- Oxford for North East (Access ambassador for North-East England)
+- Computing and Technology Society
 
 ## Open Source Software
+
+*Work in progress.*
+
+## Career Interests
+
+I am open to opportunities in the fields of Computer Science and Software Engineering,
+as well as their intersections with Philosophy, Politics, and Music.
+
+I am particularly interested in opportunities to apply my skills to
+empower workers and grassroots community organisations in the face of corporate hell.
+
+## Other Interests
 
 *Work in progress.*
