@@ -29,10 +29,10 @@ I am also the Undergraduate Vice-President at Christ Church.
 
 I have studied the following Computer Science courses:
 
-    Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
-    Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
-    Functional Programming, Imperative Programming, Concurrent Programming,
-    Computer Security
+|    Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
+|    Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
+|    Functional Programming, Imperative Programming, Concurrent Programming,
+|    Computer Security
 
 under [Dr Irwin Zaid], [Dr Lars Kunze], [Dr Andrey Kravchenko], [Dr Graham Benham],
 and [Dr Murad Banaji].
@@ -45,9 +45,9 @@ and [Dr Murad Banaji].
 
 I have studied the following Philosophy courses:
 
-    General Philosophy, Turing on Computability and Intelligence,
-    Early Modern Philosophy (Descartes & Hume), Elements of Deductive Logic,
-    Philosophical Logic
+|    General Philosophy, Turing on Computability and Intelligence,
+|    Early Modern Philosophy (Descartes & Hume), Elements of Deductive Logic,
+|    Philosophical Logic
 
 under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Alesia Priete],
 [Dr Nick Tasker], and [Dr Theodor Nenu].
