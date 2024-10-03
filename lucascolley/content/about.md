@@ -77,7 +77,7 @@ I have also been involved in small amounts with the following groups
 in the wider university:
 
 - Food Rescuers (Secretary)
-- Oxford for North East (Access ambassador for North-East England)
+- Oxford for North East (Access Ambassador for North-East England)
 - Computing and Technology Society
 
 ## Open Source Software
@@ -95,7 +95,14 @@ empower workers and grassroots community organisations in the face of corporate 
 ## Other Interests
 
 In my free time, I enjoy contributing to [Open Source Software](#open-source-software),
-listening to [music](./music.md), running, playing football and pool, and video games.
+listening to [music](../music.md), running, playing football and pool, and video games.
 
 I am broadly interested in politics, particularly in politics which aims to
 reduce inequality, increase democracy, and foster peace.
+
+## Contact Me
+
+You can email me at mailto:lucas.colley8@gmail.com.
+For Oxford-related things, you can also reach me at mailto:lucas.colley@chch.ox.ac.uk.
+Please direct any communication related to my role as
+Vice-President of Christ Church JCR to mailto:jcr.vice-president@chch.ox.ac.uk.

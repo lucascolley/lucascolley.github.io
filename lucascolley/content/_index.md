@@ -18,6 +18,11 @@ some [music] that I like, or read some cool quotes:
 
 *-- Gil Scott-Heron, [Whitey on the Moon]*
 
+> If we can find the money to kill people,
+> we can find the money to help people.
+
+*-- Tony Benn*
+
 > If you have a verbal commitment to democracy,
 > you got a real big problem justifying capitalism.
 
