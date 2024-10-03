@@ -6,10 +6,18 @@
     I am a maintainer of SciPy, one of the most important and widely used
     software libraries for science and engineering.
 
+- thing: array-api-extra
+  detail: Author
+  timeline: 2024 - Now
+  link: https://github.com/data-apis/array-api-extra
+  description: |-
+    I am the author of array-api-extra, a library housing extra array-agnostic
+    functions built on top of the array API standard.
+
 - thing: EuroSciPy 2024
   detail: Speaker
   timeline: Summer 2024
-  link: https://euroscipy.org/2024/
+  link: https://pretalx.com/euroscipy-2024/talk/BYTCSC/
   description: |-
     I gave a talk about my work on 'The Array API Standard in SciPy' in
     Szczecin, Poland.
@@ -33,6 +41,7 @@
     [Dr Ralf Gommers](https://rgommers.github.io),
     [Dr Pamphile Roy](https://github.com/tupui),
     and [Dr Irwin Zaid](https://github.com/izaid).
+    I wrote [this blog post](https://labs.quansight.org/blog/scipy-array-api).
 
 - thing: Other Open Source Projects
   detail: Contributor

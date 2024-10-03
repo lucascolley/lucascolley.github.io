@@ -82,7 +82,18 @@ in the wider university:
 
 ## Open Source Software
 
+I have spent a lot of time contributing to Open Source Software.
+This type of software is valuable because it democratises access to computational tools
+and encourages reproducible science. Also, anybody is welcome to help make it better.
+
+See below for some [Articles](#articles) written about my Open Source work.
+
 {{< AboutList "open-source" >}}
+
+### Articles
+
+- ["Undergraduate praised for 'extraordinarily impactful' open-source work"](https://www.chch.ox.ac.uk/news/undergraduate-praised-extraordinarily-impactful-open-source-work)
+- ["Lucas Colley made maintainer of impactful open-source library"](https://www.chch.ox.ac.uk/news/lucas-colley-made-maintainer-impactful-open-source-library)
 
 ## Career Interests
 
