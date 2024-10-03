@@ -60,7 +60,8 @@ The variants are:
 
         <div class="about-item--content">
             <div class="about-item--title">
-                {{- if (isset $mapping "link") }}<a class="about-item--link" href="{{ index $mapping " link" }}">{{ end
+
+                {{- if (isset $mapping "link") }}<a class="about-item--link" href="{{ index $mapping "link" }}">{{ end
                     -}}
                     <span>
                         {{- if (isset $mapping "timeline") -}}

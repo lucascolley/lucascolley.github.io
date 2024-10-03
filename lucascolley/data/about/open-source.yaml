@@ -8,6 +8,7 @@
 
 - thing: EuroSciPy 2024
   detail: Speaker
+  timeline: Summer 2024
   link: https://euroscipy.org/2024/
   description: |-
     I gave a talk about my work on 'The Array API Standard in SciPy' in
@@ -15,6 +16,7 @@
 
 - thing: NumFOCUS Summit 2024
   detail: Project Representative (SciPy)
+  timeline: Summer 2024
   link: https://www.nfsummit24.com
   description: |-
     I represented SciPy in discussions with developers across many NumFOCUS projects
@@ -22,7 +24,7 @@
 
 - thing: Quansight Labs
   detail: Intern
-  timeline: 2023 - 2023
+  timeline: Summer 2023
   link: https://labs.quansight.org
   description: |-
     I worked on interoperability in the Scientific Python Ecosystem,
