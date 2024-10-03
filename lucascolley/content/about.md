@@ -102,7 +102,9 @@ reduce inequality, increase democracy, and foster peace.
 
 ## Contact Me
 
-You can email me at mailto:lucas.colley8@gmail.com.
-For Oxford-related things, you can also reach me at mailto:lucas.colley@chch.ox.ac.uk.
+You can email me at [lucas.colley8@gmail.com](mailto:lucas.colley8@gmail.com).
+For Oxford-related things, you can also reach me at
+[lucas.colley@chch.ox.ac.uk](mailto:lucas.colley@chch.ox.ac.uk).
 Please direct any communication related to my role as
-Vice-President of Christ Church JCR to mailto:jcr.vice-president@chch.ox.ac.uk.
+Vice-President of Christ Church JCR to
+[jcr.vice-president@chch.ox.ac.uk](mailto:jcr.vice-president@chch.ox.ac.uk).
