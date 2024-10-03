@@ -7,7 +7,7 @@ modified: 2024-10-03
 
 *This page is a work in progress.*
 
-![A photo of me](/lucas-headshot.png)
+![A photo of me](/lucas-headshot.jpg)
 
 I am an undergraduate student in my third year of studying
 Computer Science & Philosophy at Christ Church, University of Oxford.
