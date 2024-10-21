@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2024-10-03
+modified: 2024-10-22
 ---
 
 ![A photo of me](/lucas-headshot.jpg)
@@ -14,6 +14,8 @@ See [Oxford](#oxford).
 I am also a maintainer of [SciPy], an Open Source Python library providing
 fundamental algorithms for Science and Engineering.
 See [Open Source Software](#open-source-software).
+
+My pronouns are he/him.
 
 See also my [career interests](#career-interests), [other interests](#other-interests),
 and how you can [contact me](#contact-me).
@@ -32,12 +34,13 @@ I have studied the following Computer Science courses:
 > Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
 > Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
 > Functional Programming, Imperative Programming, Concurrent Programming,
-> Computer Security
+> Computer Security, Artificial Intelligence, Machine Learning
 
-under [Dr Irwin Zaid], [Professor Lars Kunze], [Dr Andrey Kravchenko],
-[Dr Graham Benham], and [Dr Murad Banaji].
+under [Dr Irwin Zaid], [Professor Yarin Gal], [Professor Lars Kunze],
+[Dr Andrey Kravchenko], [Dr Graham Benham], and [Dr Murad Banaji].
 
 [Dr Irwin Zaid]: https://www.chch.ox.ac.uk/people/dr-irwin-zaid
+[Professor Yarin Gal]: https://www.cs.ox.ac.uk/people/yarin.gal/website/
 [Professor Lars Kunze]: https://people.uwe.ac.uk/Person/LarsKunze
 [Dr Andrey Kravchenko]: https://www.chch.ox.ac.uk/people/dr-andrey-kravchenko
 [Dr Graham Benham]: https://people.ucd.ie/graham.benham
@@ -46,14 +49,15 @@ under [Dr Irwin Zaid], [Professor Lars Kunze], [Dr Andrey Kravchenko],
 I have studied the following Philosophy courses:
 
 > General Philosophy, Turing on Computability and Intelligence,
-> Early Modern Philosophy (Descartes & Hume), Elements of Deductive Logic,
+> Early Modern Philosophy (Descartes & Hume), Ethics, Elements of Deductive Logic,
 > Philosophical Logic
 
-under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Alesia Priete],
-[Dr Nick Tasker], and [Dr Theodor Nenu].
+under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
+[Dr Alesia Priete], [Dr Nick Tasker], and [Dr Theodor Nenu].
 
 [Dr Fabian Pregel]: https://www.fabianpregel.net
 [Professor Peter Millican]: https://www.millican.org
+[Dr Christopher Frugé]: https://christopherfruge.com
 [Dr Alesia Priete]: https://alesiapreite.com
 [Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
