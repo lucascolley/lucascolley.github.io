@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2024-10-22
+modified: 2024-10-21
 ---
 
 ![A photo of me](/lucas-headshot.jpg)
