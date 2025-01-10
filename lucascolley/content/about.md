@@ -34,7 +34,7 @@ I have studied the following Computer Science courses:
 > Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
 > Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
 > Functional Programming, Imperative Programming, Concurrent Programming,
-> Computer Security, Artificial Intelligence, Machine Learning
+> Computer Security, Artificial Intelligence, Machine Learning, Quantum Information
 
 under [Dr Irwin Zaid], [Professor Yarin Gal], [Professor Lars Kunze],
 [Dr Andrey Kravchenko], [Dr Graham Benham], and [Dr Murad Banaji].
@@ -50,7 +50,7 @@ I have studied the following Philosophy courses:
 
 > General Philosophy, Turing on Computability and Intelligence,
 > Early Modern Philosophy (Descartes & Hume), Ethics, Elements of Deductive Logic,
-> Philosophical Logic
+> Philosophical Logic, Feminist Theory
 
 under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
 [Dr Alesia Priete], [Dr Nick Tasker], and [Dr Theodor Nenu].
