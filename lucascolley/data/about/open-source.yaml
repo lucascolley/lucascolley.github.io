@@ -6,6 +6,14 @@
     I am a maintainer of SciPy, one of the most important and widely used
     software libraries for science and engineering.
 
+- thing: Consortium for Python Data API Standards
+  detail: Member
+  timeline: 2025 - Now
+  link: https://data-apis.org
+  description: |-
+    I am a member of the Consortium for Python Data API Standards, having worked
+    on adoption and support for the array API standard.
+
 - thing: array-api-extra
   detail: Author
   timeline: 2024 - Now
@@ -13,6 +21,15 @@
   description: |-
     I am the author of array-api-extra, a library housing extra array-agnostic
     functions built on top of the array API standard.
+
+- thing: quantity-dev
+  detail: Founding Member
+  timeline: 2025 - Now
+  link: https://github.com/quantity-dev
+  description: |-
+    I am a founding member of quantity-dev,
+    working on the standardisation of APIs for quantities and units in Python,
+    as well as integration with the array API standard.
 
 - thing: EuroSciPy 2024
   detail: Speaker
@@ -48,6 +65,5 @@
   timeline: 2023 - Now
   link: https://github.com/lucascolley
   description: |-
-    I have contributed to various Open Source Software Projects,
-    including the array API standard, array-api-compat, array-api-strict,
-    NumPy, Dask, and the Scientific Python Project.
+    I have contributed to various other projects, mostly in the Scientific
+    Python ecosystem and related ecosystems.
