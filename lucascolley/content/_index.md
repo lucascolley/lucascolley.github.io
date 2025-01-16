@@ -28,6 +28,11 @@ some [music] that I like, or read some cool quotes:
 
 *-- Richard D. Wolff*
 
+> Always a boss and never a worker.
+> Always a liar, always a thief, and never caught.
+
+*-- Zoe Leonard, »I want a president...«*
+
 > The revolution will not be televised ... The revolution will be live.
 
 *-- Gil Scott-Heron*
