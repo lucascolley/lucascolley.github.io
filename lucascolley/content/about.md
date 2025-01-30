@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2024-10-21
+modified: 2025-01-30
 ---
 
 ![A photo of me](/lucas-headshot.jpg)
@@ -53,11 +53,12 @@ I have studied the following Philosophy courses:
 > Philosophical Logic, Feminist Theory
 
 under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
-[Dr Alesia Priete], [Dr Nick Tasker], and [Dr Theodor Nenu].
+[Dr Aylon Cohen], [Dr Alesia Priete], [Dr Nick Tasker], and [Dr Theodor Nenu].
 
 [Dr Fabian Pregel]: https://www.fabianpregel.net
 [Professor Peter Millican]: https://www.millican.org
 [Dr Christopher Frugé]: https://christopherfruge.com
+[Dr Aylon Cohen]: https://www.ayloncohen.com
 [Dr Alesia Priete]: https://alesiapreite.com
 [Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
