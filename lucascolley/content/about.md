@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2025-01-30
+modified: 2025-03-19
 ---
 
 ![A photo of me](/lucas-headshot.jpg)
@@ -27,7 +27,7 @@ and how you can [contact me](#contact-me).
 ## Oxford
 
 I am studying Computer Science & Philosophy at Christ Church, University of Oxford.
-I am also the Undergraduate Vice-President at Christ Church.
+I was the Undergraduate Vice-President at Christ Church in 2024/25.
 
 I have studied the following Computer Science courses:
 
@@ -69,7 +69,7 @@ Project OxFolder.
 
 In my college, I have held the following positions:
 
-- Undergraduate Vice-President (current)
+- Undergraduate Vice-President
 - Undergraduate Access Officer
 - Access Tutor
 - Captain of the Men's Football 2nd XI
@@ -105,7 +105,7 @@ See below for some [Articles](#articles) written about my Open Source work.
 I am open to opportunities in the fields of Computer Science and Software Engineering,
 as well as their intersections with Philosophy, Politics, and Music.
 
-I am particularly interested in opportunities to apply my skills to
+I would be particularly interested in any opportunities to apply my skills to
 empower workers and grassroots community organisations in the face of corporate hell.
 
 ## Other Interests
@@ -121,6 +121,3 @@ reduce inequality, increase democracy, and foster peace.
 You can email me at [lucas.colley8@gmail.com](mailto:lucas.colley8@gmail.com).
 For Oxford-related things, you can also reach me at
 [lucas.colley@chch.ox.ac.uk](mailto:lucas.colley@chch.ox.ac.uk).
-Please direct any communication related to my role as
-Vice-President of Christ Church JCR to
-[jcr.vice-president@chch.ox.ac.uk](mailto:jcr.vice-president@chch.ox.ac.uk).
