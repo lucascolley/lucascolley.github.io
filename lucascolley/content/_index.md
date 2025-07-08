@@ -1,6 +1,6 @@
 You can read a bit [about me] on this website.
 
-For details of my Education and Experience, check out [my LinkedIn].
+For details of my education and professional experience, check out [my LinkedIn].
 
 To explore my contributions to software for Open Science, check out [my GitHub].
 

@@ -2,10 +2,10 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2025-03-19
+modified: 2025-07-08
 ---
 
-![A photo of me](/lucas-headshot.jpg)
+![A photo of me](/lucas-headshot.png)
 
 I am an undergraduate student in my third year of studying
 Computer Science & Philosophy at Christ Church, University of Oxford.
