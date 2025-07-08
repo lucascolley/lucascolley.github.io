@@ -11,7 +11,7 @@ I am an undergraduate student in my third year of studying
 Computer Science & Philosophy at Christ Church, University of Oxford.
 See [Oxford](#oxford).
 
-I am also a maintainer of [SciPy], an Open Source Python library providing
+I am also a maintainer of [SciPy], an open source Python library providing
 fundamental algorithms for Science and Engineering.
 See [Open Source Software](#open-source-software).
 
@@ -87,11 +87,11 @@ in the wider university:
 
 ## Open Source Software
 
-I have spent a lot of time contributing to Open Source Software.
+I have spent a lot of time contributing to open source software.
 This type of software is valuable because it democratises access to computational tools
 and encourages reproducible science. Also, anybody is welcome to help make it better.
 
-See below for some [Articles](#articles) written about my Open Source work.
+See below for some [Articles](#articles) written about my open source work.
 
 {{< AboutList "open-source" >}}
 
