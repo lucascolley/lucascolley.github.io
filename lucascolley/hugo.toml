@@ -7,9 +7,9 @@ theme = "PaperMod"
 defaultTheme = "auto"
 
 socialIcons = [
-    { name = "email", url = "mailto:lucas.colley8@gmail.com" },
-    { name = "linkedin", url = "https://www.linkedin.com/in/lucascolley0/" },
-    { name = "github", url = "https://github.com/lucascolley" },
+  { name = "email", url = "mailto:lucas.colley8@gmail.com" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/lucascolley0/" },
+  { name = "github", url = "https://github.com/lucascolley" },
 ] # Shown on the home page
 
 # Configure the home page
@@ -23,6 +23,13 @@ identifier = "about"
 name = "about"
 title = "about"
 url = "/about/"
+
+[[menu.main]]
+weight = 1
+identifier = "talks"
+name = "talks"
+title = "talks"
+url = "/talks/"
 
 [[menu.main]]
 weight = 2
