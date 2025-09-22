@@ -7,8 +7,7 @@ modified: 2025-07-08
 
 ![A photo of me](/lucas-headshot.png)
 
-I am an undergraduate student in my third year of studying
-Computer Science & Philosophy at Christ Church, University of Oxford.
+I am a master's student in Computer Science & Philosophy at Christ Church, University of Oxford.
 See [Oxford](#oxford).
 
 I am also a maintainer of [SciPy], an open source Python library providing

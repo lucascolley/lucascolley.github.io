@@ -36,8 +36,7 @@
   timeline: Summer 2025
   link: https://prefix.dev
   description: |-
-    I am working on Pixi (https://pixi.sh/) and rattler-build (https://rattler.build/),
-    as well as my proficiency in Rust.
+    Maintaining [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, build on top of the conda ecosystem.
 
 - thing: EuroSciPy 2024
   detail: Speaker
