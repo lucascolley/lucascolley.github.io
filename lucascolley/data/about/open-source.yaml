@@ -36,7 +36,7 @@
   timeline: Summer 2025
   link: https://prefix.dev
   description: |-
-    Maintaining [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, build on top of the conda ecosystem.
+    Maintaining [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
 
 - thing: EuroSciPy 2024
   detail: Speaker
