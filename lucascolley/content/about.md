@@ -11,7 +11,7 @@ I am a master's student in Computer Science & Philosophy at Christ Church, Unive
 See [Oxford](#oxford).
 
 I am also a maintainer of [SciPy], an open source Python library providing
-fundamental algorithms for Science and Engineering.
+fundamental algorithms for science and engineering.
 See [Open Source Software](#open-source-software).
 
 My pronouns are he/him.
