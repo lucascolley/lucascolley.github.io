@@ -45,4 +45,4 @@ some [music] that I like, or read some cool quotes:
 
 ---
 
-The design of this website was heavily inspired by https://pradyunsg.me.
+The design and source code of this website was heavily inspired by https://pradyunsg.me.

@@ -1,24 +1,29 @@
-version: 5
+version: 6
 environments:
   default:
     channels:
-    - url: https://conda.anaconda.org/conda-forge/
+    - url: https://prefix.dev/conda-forge/
     packages:
       osx-arm64:
-      - conda: https://conda.anaconda.org/conda-forge/osx-arm64/hugo-0.135.0-hd74edd7_2.conda
+      - conda: https://prefix.dev/conda-forge/osx-arm64/hugo-0.150.1-h26d7ee4_0.conda
+      - conda: https://prefix.dev/conda-forge/osx-arm64/libcxx-21.1.2-hf598326_0.conda
 packages:
-- kind: conda
-  name: hugo
-  version: 0.135.0
-  build: hd74edd7_2
-  build_number: 2
-  subdir: osx-arm64
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/hugo-0.135.0-hd74edd7_2.conda
-  sha256: 60573622a4efc54e8e91f13d55c2bbbc307a6a6a7d18aeceff3cba03087192db
-  md5: 4ab0f38b9292b652fc6aea876199fc3b
+- conda: https://prefix.dev/conda-forge/osx-arm64/hugo-0.150.1-h26d7ee4_0.conda
+  sha256: ca18d2929d7f5ad13e0612b79aa59e7aabb74199e8076ce87cd438368d32ed4e
+  md5: 1f0cc9a2237ef6190a449ba849a04a5e
   depends:
-  - __osx >=11.0
+  - __osx >=12.3
+  - libcxx >=19
   license: Apache-2.0
   license_family: APACHE
-  size: 19157410
-  timestamp: 1727769788575
+  size: 15816019
+  timestamp: 1758815981714
+- conda: https://prefix.dev/conda-forge/osx-arm64/libcxx-21.1.2-hf598326_0.conda
+  sha256: 3de00998c8271f599d6ed9aea60dc0b3e5b1b7ff9f26f8eac95f86f135aa9beb
+  md5: edfa256c5391f789384e470ce5c9f340
+  depends:
+  - __osx >=11.0
+  license: Apache-2.0 WITH LLVM-exception
+  license_family: Apache
+  size: 568154
+  timestamp: 1758698306949

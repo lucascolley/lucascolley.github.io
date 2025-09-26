@@ -1,13 +1,12 @@
-[project]
+[workspace]
 authors = ["Lucas Colley <lucas.colley8@gmail.com>"]
-channels = ["conda-forge"]
+channels = ["https://prefix.dev/conda-forge"]
 description = "Lucas Colley's Personal Website"
 name = "lucascolley.github.io"
 platforms = ["osx-arm64"]
-version = "0.1.0"
 
 [tasks]
-hugo = { cmd = "hugo", cwd = "lucascolley" }
+preview = { cmd = "hugo server -D -O", cwd = "lucascolley" }
 
 [dependencies]
-hugo = ">=0.135.0,<0.136"
+hugo = ">=0.150.1,<0.151"

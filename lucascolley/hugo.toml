@@ -25,7 +25,7 @@ title = "about"
 url = "/about/"
 
 [[menu.main]]
-weight = 1
+weight = 2
 identifier = "talks"
 name = "talks"
 title = "talks"
@@ -33,6 +33,13 @@ url = "/talks/"
 
 [[menu.main]]
 weight = 2
+identifier = "blog"
+name = "blog"
+title = "blog"
+url = "/blog/"
+
+[[menu.main]]
+weight = 3
 identifier = "music"
 name = "music"
 title = "music"
