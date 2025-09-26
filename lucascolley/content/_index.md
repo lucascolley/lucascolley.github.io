@@ -1,4 +1,4 @@
-You can read a bit [about me] on this website.
+You can read a bit [about me] on this website. You can also check out some [blog] posts I have written, and some [talks] I have given.
 
 ---
 
@@ -34,8 +34,8 @@ some [music] that I like, or read some cool quotes:
 *-- Gil Scott-Heron*
 
 [about me]: ./about/
-[my LinkedIn]: https://www.linkedin.com/in/lucascolley0/
-[my GitHub]: https://github.com/lucascolley
+[blog]: ./blog/
+[talks]: https://lucascolley.github.io/talks/
 [music]: ./music
 [Whitey on the Moon]: https://youtu.be/otwkXZ0SmTs?si=hbdPYEgxrwgLad6S
 
