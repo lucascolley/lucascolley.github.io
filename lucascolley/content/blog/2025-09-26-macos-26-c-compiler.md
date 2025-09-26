@@ -118,7 +118,7 @@ This pull request both added the patch file to the recipe, and bumped the `build
 [`git format-patch`]: https://git-scm.com/docs/git-format-patch
 
 With the pull request submitted, [conda-forge's CI build farm] kicked into action, with builds running across all target architectures on Azure Pipelines.
-The last step was to check that the patch really fixed the problem, by testing out the updated `ld64` package locally on my macOS 26 machine.
+The last step was to check that the patch really fixed the problem, by testing the updated `ld64` package locally on my macOS 26 machine.
 Thanks to the automated build farm, I didn't need to build `ld64` locally: instead, I could download the conda package artifact which was produced by the CI build matching my architecture, and use that conda package locally.
 
 [conda-forge's CI build farm]: https://dev.azure.com/conda-forge/feedstock-builds/_build
