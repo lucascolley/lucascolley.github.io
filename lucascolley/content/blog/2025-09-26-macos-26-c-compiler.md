@@ -97,13 +97,13 @@ index 8f8ee46..d129024 100644
 I explore what the problem was and why this patch fixed it below, in [What was the problem?](#what-was-the-problem).
 But first, how did we go from this suggested patch, to deploying that patch and updating the compiler on my machine?
 
-The patch was to [https://github.com/tpoechtrager/cctools-port](), a port of Apple [`cctools`] for other operating systems, which includes the 64-bit linker for macOS, [`ld64`].
+The patch was to [https://github.com/tpoechtrager/cctools-port](https://github.com/tpoechtrager/cctools-port), a port of Apple [`cctools`] for other operating systems, which includes the 64-bit linker for macOS, [`ld64`].
 Importantly, conda-forge obtains the `cctools` and `ld64` dependencies of `clang` from this port when installing `clang` on an Apple Silicon machine.
 
 [`cctools`]: https://github.com/apple-oss-distributions/cctools
 [`ld64`]: https://github.com/apple-oss-distributions/ld64
 
-In conda-forge, the pipelines which transform source code into [conda packages] are contained in [feedstocks], like [https://github.com/conda-forge/cctools-and-ld64-feedstock]().
+In conda-forge, the pipelines which transform source code into [conda packages] are contained in [feedstocks], like [https://github.com/conda-forge/cctools-and-ld64-feedstock](https://github.com/conda-forge/cctools-and-ld64-feedstock).
 In this case, the feedstock takes the `tpoechtrager/cctools-port` source code as the input (`source`), and outputs two main conda packages, `ld64` and `cctools`.
 
 [conda packages]: https://prefix.dev/blog/what-is-a-conda-package
