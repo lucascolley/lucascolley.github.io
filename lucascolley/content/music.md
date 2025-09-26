@@ -17,6 +17,7 @@ and a track by each:
 - salute - [Fortress]
 - Kendrick Lamar - [Wesley's Theory]
 - The Alchemist - [E Coli (feat. Earl Sweatshirt)]
+- Deftones - [Pink Maggit]
 
 [In My World]: https://youtu.be/km-gUT-kz-M?si=1xI3GFAEDAi0m0b_
 [Rock Bottom - Live]: https://youtu.be/fEMzoyfoOfI?si=lyG-_odjk5VPLIDq
@@ -27,3 +28,4 @@ and a track by each:
 [Fortress]: https://saluteaut.bandcamp.com/track/fortress
 [Wesley's Theory]: https://youtu.be/l9fN-8NjrvI?si=Sj2oHfKdQIQV4P8-
 [E Coli (feat. Earl Sweatshirt)]: https://youtu.be/cMaIjdfsRrs?si=Sva28wI7cerLzeJO
+[Pink Maggit]: https://youtu.be/v8f8WQ85Qb0?si=paAdWxrole7w5ScQ
