@@ -18,6 +18,8 @@ and a track by each:
 - Kendrick Lamar - [Wesley's Theory]
 - The Alchemist - [E Coli (feat. Earl Sweatshirt)]
 - Deftones - [Pink Maggit]
+- Rejjie Snow - [Oreos (w/ Cam O'bi & J. Ivy)]
+- Earl Sweatshirt - [The Caliphate (w/ The Alchemist, feat. Vince Staples)]
 
 [In My World]: https://youtu.be/km-gUT-kz-M?si=1xI3GFAEDAi0m0b_
 [Rock Bottom - Live]: https://youtu.be/fEMzoyfoOfI?si=lyG-_odjk5VPLIDq
@@ -29,3 +31,5 @@ and a track by each:
 [Wesley's Theory]: https://youtu.be/l9fN-8NjrvI?si=Sj2oHfKdQIQV4P8-
 [E Coli (feat. Earl Sweatshirt)]: https://youtu.be/cMaIjdfsRrs?si=Sva28wI7cerLzeJO
 [Pink Maggit]: https://youtu.be/v8f8WQ85Qb0?si=paAdWxrole7w5ScQ
+[Oreos (w/ Cam O'bi & J. Ivy)]: https://rejjiesnow.bandcamp.com/track/oreos
+[The Caliphate (w/ The Alchemist, feat. Vince Staples)]: https://youtu.be/DjLeA9yS2ek?si=vYuoXwiR8hNyM5r5
