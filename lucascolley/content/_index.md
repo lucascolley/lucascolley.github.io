@@ -27,7 +27,7 @@ some [music] that I like, or read some cool quotes:
 > Always a boss and never a worker.
 > Always a liar, always a thief, and never caught.
 
-*-- Zoe Leonard, »I want a president...«*
+*-- Zoe Leonard, [»I want a president...«]*
 
 > The revolution will not be televised ... The revolution will be live.
 
@@ -38,6 +38,7 @@ some [music] that I like, or read some cool quotes:
 [talks]: https://lucascolley.github.io/talks/
 [music]: ./music
 [Whitey on the Moon]: https://youtu.be/otwkXZ0SmTs?si=hbdPYEgxrwgLad6S
+[»I want a president...«]: https://www.macba.cat/en/obra/r5775-i-want-a-president/
 
 ---
 

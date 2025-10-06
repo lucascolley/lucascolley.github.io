@@ -11,7 +11,8 @@ I am a master's student in Computer Science & Philosophy at Christ Church, Unive
 See [Oxford](#oxford).
 
 I am also a maintainer of [SciPy], an open source Python library providing
-fundamental algorithms for science and engineering.
+fundamental algorithms for science and engineering,
+and [Pixi], a cross-language, cross-platform package manager.
 See [Open Source Software](#open-source-software).
 
 My pronouns are he/him.
@@ -20,6 +21,7 @@ See also my [career interests](#career-interests), [other interests](#other-inte
 and how you can [contact me](#contact-me).
 
 [SciPy]: https://scipy.org
+[Pixi]: https://pixi.sh/
 
 ---
 
@@ -86,11 +88,11 @@ in the wider university:
 
 ## Open Source Software
 
-I have spent a lot of time contributing to open source software.
+I have spent a lot of time contributing to free and open source software.
 This type of software is valuable because it democratises access to computational tools
 and encourages reproducible science. Also, anybody is welcome to help make it better.
 
-See below for some [Articles](#articles) written about my open source work.
+See below for some [articles](#articles) written about my open source work.
 
 {{< AboutList "open-source" >}}
 
@@ -109,7 +111,7 @@ empower workers and grassroots community organisations in the face of corporate 
 
 ## Other Interests
 
-In my free time, I enjoy contributing to [Open Source Software](#open-source-software),
+In my free time, I enjoy contributing to [free and open source software](#open-source-software),
 listening to [music](../music/), running, playing football and pool, and video games.
 
 I am broadly interested in politics, particularly in politics which aims to
