@@ -201,7 +201,7 @@ Our fix avoided the error by not stripping `libSystem.dylib`, even when it is un
 In the process of writing this post, I definitely learned a thing or two about compilers, linkers, dylibs, and such.
 
 But the main takeaway for me is just how fast we were able to fix this (on the face of it, disastrous!) problem.
-It speaks to the power of free and open-source software — and especially to community-owned software distributions like conda-forge — that if somebody (or some big company) breaks your software, you can go and fix it yourself (*/with the indispensable help of the conda-forge core team, who keep conda-forge running, often on a volunteer basis!*), right down to the fundamental tools like the C compiler!
+It speaks to the power of free and open-source software — and especially of community-owned software distributions like conda-forge — that if somebody (or some big company) breaks your software, you can go and fix it yourself (*/with the indispensable help of the conda-forge core team, who keep conda-forge running, often on a volunteer basis!*), right down to the fundamental tools like the C compiler!
 
 Thanks again to [@isuruf], [@h-vetinari], [@pavelzw], and [@wolfv], who all helped in some way to get this fix in before it became a problem in the real world!
 
