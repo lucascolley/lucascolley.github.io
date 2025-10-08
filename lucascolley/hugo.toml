@@ -37,10 +37,3 @@ identifier = "blog"
 name = "blog"
 title = "blog"
 url = "/blog/"
-
-[[menu.main]]
-weight = 3
-identifier = "music"
-name = "music"
-title = "music"
-url = "/music/"

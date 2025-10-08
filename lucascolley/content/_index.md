@@ -2,9 +2,6 @@ You can read a bit [about me] on this website. You can also check out some [blog
 
 ---
 
-Besides the professional/technical stuff, you might like to check out
-some [music] that I like, or read some cool quotes:
-
 > When education is not liberating,
 > the dream of the oppressed is to become the oppressor.
 

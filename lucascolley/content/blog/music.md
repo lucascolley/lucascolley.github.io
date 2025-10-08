@@ -1,8 +1,8 @@
 ---
 title: "Some Music I Like"
-layout: single
-showReadingTime: false
-modified: 2025-01-10
+tags: ["personal"]
+modified: 2025-10-08
+weight: 2
 ---
 
 Here are some music artists that I like listening to

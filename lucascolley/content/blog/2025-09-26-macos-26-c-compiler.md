@@ -1,6 +1,8 @@
 ---
 title: "Upgrading macOS broke my C compiler... so I* fixed it!"
 tags: ["conda-forge"]
+modified: 2025-09-26
+weight: 1
 ---
 
 *with the indispensable help and guidance of the [conda-forge] core team!
