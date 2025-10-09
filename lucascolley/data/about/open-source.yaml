@@ -1,30 +1,37 @@
 - thing: SciPy
   detail: Maintainer
-  timeline: 2024 - Now
+  timeline: 2024 — Now
   link: https://github.com/scipy/scipy
   description: |-
-    I am a maintainer of SciPy, one of the most important and widely used
+    I am a maintainer of SciPy, one of the most widely used
     software libraries for science and engineering.
 
 - thing: Consortium for Python Data API Standards
   detail: Member
-  timeline: 2025 - Now
+  timeline: 2025 — Now
   link: https://data-apis.org
   description: |-
     I am a member of the Consortium for Python Data API Standards,
-    having worked on the Python array API standard.
+    working on the Python array API standard.
 
 - thing: array-api-extra
   detail: Author
-  timeline: 2024 - Now
+  timeline: 2024 — Now
   link: https://github.com/data-apis/array-api-extra
   description: |-
-    I am the author of array-api-extra, a library housing extra array-agnostic
+    I am the primary author of array-api-extra, a library housing extra array-agnostic
     functions built on top of the array API standard.
+
+- thing: Pixi
+  detail: Maintainer
+  timeline: 2025 — Now
+  link: https://github/com/prefix-dev/pixi
+  description: |-
+    I am a maintainer of [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
 
 - thing: quantity-dev
   detail: Founding Member
-  timeline: 2025 - Now
+  timeline: 2025 — Now
   link: https://github.com/quantity-dev
   description: |-
     I am a founding member of quantity-dev,
@@ -36,7 +43,16 @@
   timeline: Summer 2025
   link: https://prefix.dev
   description: |-
-    Maintaining [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
+    I developed and maintained [Pixi](https://pixi.sh/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
+    I co-wrote [this blog post](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions).
+
+- thing: PyData Paris 2025
+  detail: Speaker
+  timeline: Summer 2025
+  link: https://lucascolley.github.io/talks/pydata-paris-25-array-api/
+  description: |-
+    I gave a talk called 'A Hitchhiker’s Guide to the Array API Standard Ecosystem' in
+    Paris, France.
 
 - thing: EuroSciPy 2025
   detail: Speaker
@@ -77,7 +93,7 @@
 
 - thing: Other Open Source Projects
   detail: Contributor
-  timeline: 2023 - Now
+  timeline: 2023 — Now
   link: https://github.com/lucascolley
   description: |-
     I have contributed to various other projects, mostly in the Scientific
