@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2025-10-09
+modified: 2025-11-12
 ---
 
 ![A photo of me](/lucas-headshot.png)
@@ -30,6 +30,9 @@ and how you can [contact me](#contact-me).
 I am studying Computer Science & Philosophy at Christ Church, University of Oxford.
 I was the Undergraduate Vice-President at Christ Church in 2024/25.
 
+I am currently undertaking a Computer Science dissertation in the area of
+batched and hardware-accelerated sparse linear solvers in Python.
+
 I have studied the following Computer Science courses:
 
 > Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
@@ -51,10 +54,10 @@ I have studied the following Philosophy courses:
 
 > General Philosophy, Turing on Computability and Intelligence,
 > Early Modern Philosophy (Descartes & Hume), Ethics, Elements of Deductive Logic,
-> Philosophical Logic, Feminist Theory
+> Philosophical Logic, Feminist Theory, Ethics of Artificial Intelligence and Digital Technology
 
 under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
-[Dr Aylon Cohen], [Dr Alesia Priete], [Dr Nick Tasker], and [Dr Theodor Nenu].
+[Dr Aylon Cohen], [Dr Alesia Priete], [Dr Nick Tasker], [Dr Theodor Nenu], and [Dr Thomas Mitchell].
 
 [Dr Fabian Pregel]: https://www.fabianpregel.net
 [Professor Peter Millican]: https://www.millican.org
@@ -63,6 +66,7 @@ under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
 [Dr Alesia Priete]: https://alesiapreite.com
 [Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
+[Dr Thomas Mitchell]: https://www.ccc.ox.ac.uk/people/dr-thomas-mitchell
 
 [I was awarded](https://www.cs.ox.ac.uk/news/2322-full.html) the
 Department of Computer Science Group Project Prize in 2024 for my work on
