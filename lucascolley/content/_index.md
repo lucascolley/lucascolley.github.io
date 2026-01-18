@@ -21,10 +21,14 @@ You can read a bit [about me] on this website. You can also check out some [blog
 
 *-- Richard D. Wolff*
 
-> Always a boss and never a worker.
-> Always a liar, always a thief, and never caught.
+> Always a boss and never a worker,
+> always a liar, always a thief and never caught.
 
 *-- Zoe Leonard, [»I want a president...«]*
+
+> Those who do not move, do not notice the weight of their chains.
+
+*-- (attributed to) Rosa Luxemburg*
 
 > The revolution will not be televised ... The revolution will be live.
 
