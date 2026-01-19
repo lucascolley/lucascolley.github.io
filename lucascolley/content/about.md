@@ -54,15 +54,18 @@ I have studied the following Philosophy courses:
 
 > General Philosophy, Turing on Computability and Intelligence,
 > Early Modern Philosophy (Descartes & Hume), Ethics, Elements of Deductive Logic,
-> Philosophical Logic, Feminist Theory, Ethics of Artificial Intelligence and Digital Technology
+> Philosophical Logic, Feminist Theory, Ethics of Artificial Intelligence and Digital Technology,
+> Theory of Politics
 
-under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Christopher Frugé],
-[Dr Aylon Cohen], [Dr Alesia Priete], [Dr Nick Tasker], [Dr Theodor Nenu], and [Dr Thomas Mitchell].
+under [Dr Fabian Pregel], [Professor Peter Millican], [Dr Aylon Cohen], [Emily Dyson],
+[Dr Christopher Frugé], [Dr Alesia Priete], [Dr Nick Tasker], [Dr Theodor Nenu],
+and [Dr Thomas Mitchell].
 
 [Dr Fabian Pregel]: https://www.fabianpregel.net
 [Professor Peter Millican]: https://www.millican.org
 [Dr Christopher Frugé]: https://christopherfruge.com
 [Dr Aylon Cohen]: https://www.ayloncohen.com
+[Emily Dyson]: https://www.nuffield.ox.ac.uk/people/profiles/emily-dyson/
 [Dr Alesia Priete]: https://alesiapreite.com
 [Dr Nick Tasker]: https://www.hertford.ox.ac.uk/staff/dr-nick-tasker
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
