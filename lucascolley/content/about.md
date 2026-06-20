@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2025-11-12
+modified: 2026-06-20
 ---
 
 ![A photo of me](/lucas-headshot.png)
@@ -30,8 +30,8 @@ and how you can [contact me](#contact-me).
 I am studying Computer Science & Philosophy at Christ Church, University of Oxford.
 I was the Undergraduate Vice-President at Christ Church in 2024/25.
 
-I am currently undertaking a Computer Science dissertation in the area of
-batched and hardware-accelerated sparse linear solvers in Python.
+I have submitted a Computer Science dissertation titled
+'Batched and Hardware-Accelerated Iterative Sparse Linear Solvers in Python'.
 
 I have studied the following Computer Science courses:
 
