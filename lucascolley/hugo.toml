@@ -26,6 +26,13 @@ url = "/about/"
 
 [[menu.main]]
 weight = 2
+identifier = "cv"
+name = "cv"
+title = "cv"
+url = "/cv.pdf"
+
+[[menu.main]]
+weight = 2
 identifier = "talks"
 name = "talks"
 title = "talks"
