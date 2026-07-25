@@ -2,28 +2,57 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2026-06-20
+modified: 2026-07-25
 ---
 
 ![A photo of me](/lucas-headshot.png)
 
-I am a master's student in Computer Science & Philosophy at Christ Church, University of Oxford.
-See [Oxford](#oxford).
-
-I am also a maintainer of [SciPy], an open source Python library providing
+I am a maintainer of [SciPy], an open source Python library providing
 fundamental algorithms for science and engineering,
 and [Pixi], a cross-language, cross-platform package manager.
 See [Open Source Software](#open-source-software).
 
+I am also a First Class MCompSciPhil graduate from the University of Oxford,
+having received The Hoare Prize for best overall performance in Computer Science and Philosophy 2026.
+See [Oxford](#oxford).
+
 My pronouns are he/him.
 
-See also my [career interests](#career-interests), [other interests](#other-interests),
+See also [some news articles written about me](#news-articles), my [career interests](#career-interests), some of my [other interests](#other-interests),
 and how you can [contact me](#contact-me).
 
 [SciPy]: https://scipy.org
-[Pixi]: https://pixi.sh/
+[Pixi]: https://pixi.prefix.dev
 
 ---
+
+## News Articles
+
+- ["Lucas Colley made maintainer of impactful open-source library"](https://www.chch.ox.ac.uk/news/lucas-colley-made-maintainer-impactful-open-source-library)
+- ["Undergraduate praised for 'extraordinarily impactful' open-source work"](https://www.chch.ox.ac.uk/news/undergraduate-praised-extraordinarily-impactful-open-source-work)
+
+## Open Source Software
+
+I have spent a lot of time contributing to free and open source software.
+This type of software is valuable because it democratises access to computational tools
+and encourages reproducible science. Also, anybody is welcome to help make it better.
+
+### Projects
+
+{{< AboutList "open-source" >}}
+
+### Positions
+
+I have held the following tangible positions in this space:
+
+{{< AboutList "positions" >}}
+
+### Conferences
+
+I have enjoyed attending various conferences to meet other developers and speak about my work.
+See [talks](https://lucascolley.github.io/talks/) for slides of my talks.
+
+{{< AboutList "conferences" >}}
 
 ## Oxford
 
@@ -93,21 +122,6 @@ in the wider university:
 - Oxford for North East (Access Ambassador for North-East England)
 - Computing and Technology Society
 
-## Open Source Software
-
-I have spent a lot of time contributing to free and open source software.
-This type of software is valuable because it democratises access to computational tools
-and encourages reproducible science. Also, anybody is welcome to help make it better.
-
-See below for some [articles](#articles) written about my open source work.
-
-{{< AboutList "open-source" >}}
-
-### Articles
-
-- ["Undergraduate praised for 'extraordinarily impactful' open-source work"](https://www.chch.ox.ac.uk/news/undergraduate-praised-extraordinarily-impactful-open-source-work)
-- ["Lucas Colley made maintainer of impactful open-source library"](https://www.chch.ox.ac.uk/news/lucas-colley-made-maintainer-impactful-open-source-library)
-
 ## Career Interests
 
 I am open to opportunities in the fields of Computer Science and Software Engineering,
@@ -127,5 +141,3 @@ reduce inequality, increase democracy, and foster peace.
 ## Contact Me
 
 You can email me at [lucas.colley8@gmail.com](mailto:lucas.colley8@gmail.com).
-For Oxford-related things, you can also reach me at
-[lucas.colley@chch.ox.ac.uk](mailto:lucas.colley@chch.ox.ac.uk).

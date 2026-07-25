@@ -1,0 +1,20 @@
+- thing: prefix.dev
+  detail: Mentee (European Summer of Code)
+  timeline: Summer 2025
+  link: https://prefix.dev
+  description: |-
+    I developed and maintained [Pixi](https://pixi.prefix.dev/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
+    I co-wrote [this blog post](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions).
+
+- thing: Quansight Labs
+  detail: Intern
+  timeline: Summer 2023
+  link: https://labs.quansight.org
+  description: |-
+    I worked on interoperability in the Scientific Python Ecosystem,
+    with significant contributions made towards SciPy's support for
+    the array API standard, under the mentorship of
+    [Dr Ralf Gommers](https://rgommers.github.io),
+    [Dr Pamphile Roy](https://github.com/tupui),
+    and [Dr Irwin Zaid](https://github.com/izaid).
+    I wrote [this blog post](https://labs.quansight.org/blog/scipy-array-api).

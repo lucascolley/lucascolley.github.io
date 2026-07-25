@@ -1,0 +1,49 @@
+- thing: EuroPython 2026
+  detail: Speaker
+  timeline: Summer 2026
+  link: https://lucascolley.github.io/talks/europython-26-instrumented/
+  description: |-
+    I gave a talk titled 'Instrumented CPython builds with Pixi'
+    at the EuroPython 2026 Packaging Summit in Kraków, Poland.
+
+- thing: EuroSciPy 2026
+  detail: Speaker
+  timeline: Summer 2026
+  link: https://lucascolley.github.io/talks/euroscipy-26-linop/
+  description: |-
+    I gave a talk titled 'LinearOperator: stories from advancing an 18-year-old data structure in SciPy'
+    at EuroSciPy 2026 in Kraków, Poland.
+    I also gave a talk with [Wolf Vollprecht](https://github.com/wolfv) at the same conference,
+    titled [Pixi: better developer experience for scientific Python projects](https://lucascolley.github.io/euroscipy-2026-pixi-talk/).
+
+- thing: PyData Paris 2025
+  detail: Speaker
+  timeline: Summer 2025
+  link: https://lucascolley.github.io/talks/pydata-paris-25-array-api/
+  description: |-
+    I gave a talk titled 'A Hitchhiker’s Guide to the Array API Standard Ecosystem' in
+    Paris, France.
+
+- thing: EuroSciPy 2025
+  detail: Speaker
+  timeline: Summer 2025
+  link: https://lucascolley.github.io/talks/euroscipy-25-array-api/
+  description: |-
+    I gave a talk titled 'A Hitchhiker’s Guide to the Array API Standard Ecosystem' in
+    Kraków, Poland.
+
+- thing: EuroSciPy 2024
+  detail: Speaker
+  timeline: Summer 2024
+  link: https://pretalx.com/euroscipy-2024/talk/BYTCSC/
+  description: |-
+    I gave a talk about my work on 'The Array API Standard in SciPy' in
+    Szczecin, Poland.
+
+- thing: NumFOCUS Summit 2024
+  detail: Project Representative (SciPy)
+  timeline: Summer 2024
+  link: https://www.nfsummit24.com
+  description: |-
+    I represented SciPy in discussions with developers across many NumFOCUS projects
+    in Cambridge, Massachusets.
