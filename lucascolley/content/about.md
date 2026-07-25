@@ -31,6 +31,8 @@ and how you can [contact me](#contact-me).
 - ["Lucas Colley made maintainer of impactful open-source library"](https://www.chch.ox.ac.uk/news/lucas-colley-made-maintainer-impactful-open-source-library)
 - ["Undergraduate praised for 'extraordinarily impactful' open-source work"](https://www.chch.ox.ac.uk/news/undergraduate-praised-extraordinarily-impactful-open-source-work)
 
+---
+
 ## Open Source Software
 
 I have spent a lot of time contributing to free and open source software.
@@ -54,15 +56,34 @@ See [talks](https://lucascolley.github.io/talks/) for slides of my talks.
 
 {{< AboutList "conferences" >}}
 
+---
+
 ## Oxford
 
-I am studying Computer Science & Philosophy at Christ Church, University of Oxford.
+I studied Computer Science & Philosophy at Christ Church, University of Oxford,
+and graduated with a First Class MCompSciPhil in 2026.
+
 I was the Undergraduate Vice-President at Christ Church in 2024/25.
 
-I have submitted a Computer Science dissertation titled
-'Batched and Hardware-Accelerated Iterative Sparse Linear Solvers in Python'.
+### Prizes
 
-I have studied the following Computer Science courses:
+I was awarded the following prizes:
+- The Hoare Prize for best overall performance in Computer Science and Philosophy 2026.
+- The Cipriani Prize in Computer Science for extracurricular work.
+- Book Prize for First Class Final Honours School performance.
+- [The
+Department of Computer Science Group Project Prize in 2024](https://www.cs.ox.ac.uk/news/2322-full.html).
+
+### Courses
+
+I wrote a Computer Science dissertation titled
+'Batched and Hardware-Accelerated Iterative Sparse Linear Solvers in Python',
+supervised by [Professor Joe Pitt-Francis] and [Dr Irwin Zaid].
+
+[Professor Joe Pitt-Francis]: https://www.cs.ox.ac.uk/people/joe.pitt-francis/
+[Dr Irwin Zaid]: https://www.chch.ox.ac.uk/people/dr-irwin-zaid
+
+I studied the following Computer Science courses:
 
 > Discrete Mathematics, Probability, Linear Algebra, Continuous Mathematics,
 > Design & Analysis of Algorithms, Models of Computation, Algorithms & Data Structures,
@@ -72,14 +93,13 @@ I have studied the following Computer Science courses:
 under [Dr Irwin Zaid], [Professor Yarin Gal], [Professor Lars Kunze],
 [Dr Andrey Kravchenko], [Dr Graham Benham], and [Dr Murad Banaji].
 
-[Dr Irwin Zaid]: https://www.chch.ox.ac.uk/people/dr-irwin-zaid
 [Professor Yarin Gal]: https://www.cs.ox.ac.uk/people/yarin.gal/website/
 [Professor Lars Kunze]: https://people.uwe.ac.uk/Person/LarsKunze
 [Dr Andrey Kravchenko]: https://www.chch.ox.ac.uk/people/dr-andrey-kravchenko
 [Dr Graham Benham]: https://people.ucd.ie/graham.benham
 [Dr Murad Banaji]: https://muradbanaji.github.io
 
-I have studied the following Philosophy courses:
+I studied the following Philosophy courses:
 
 > General Philosophy, Turing on Computability and Intelligence,
 > Early Modern Philosophy (Descartes & Hume), Ethics, Elements of Deductive Logic,
@@ -100,11 +120,9 @@ and [Dr Thomas Mitchell].
 [Dr Theodor Nenu]: https://www.philosophy.ox.ac.uk/people/theodor-nenu
 [Dr Thomas Mitchell]: https://www.ccc.ox.ac.uk/people/dr-thomas-mitchell
 
-[I was awarded](https://www.cs.ox.ac.uk/news/2322-full.html) the
-Department of Computer Science Group Project Prize in 2024 for my work on
-Project OxFolder.
+### Positions
 
-In my college, I have held the following positions:
+In my college, I held the following positions:
 
 - Undergraduate Vice-President
 - Undergraduate Access Officer
@@ -115,12 +133,7 @@ In my college, I have held the following positions:
 
 [My LinkedIn]: https://www.linkedin.com/in/lucascolley0/
 
-I have also been involved in small amounts with the following groups
-in the wider university:
-
-- Food Rescuers (Secretary)
-- Oxford for North East (Access Ambassador for North-East England)
-- Computing and Technology Society
+---
 
 ## Career Interests
 
@@ -137,6 +150,8 @@ listening to [music](../music/), running, playing football and pool, and video g
 
 I am broadly interested in politics, particularly in politics which aims to
 reduce inequality, increase democracy, and foster peace.
+
+---
 
 ## Contact Me
 
