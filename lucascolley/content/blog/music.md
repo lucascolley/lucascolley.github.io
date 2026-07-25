@@ -1,7 +1,7 @@
 ---
 title: "Some Music I Like"
 tags: ["personal"]
-modified: 2025-10-08
+modified: 2026-07-25
 weight: 2
 ---
 
@@ -20,6 +20,8 @@ and a track by each:
 - Deftones — [Pink Maggit]
 - Rejjie Snow — [Oreos (w/ Cam O'bi & J. Ivy)]
 - Earl Sweatshirt — [The Caliphate (w/ The Alchemist, feat. Vince Staples)]
+- PinkPantheress — [Break It Off]
+- Frank Ocean — [Ivy]
 
 [In My World]: https://youtu.be/km-gUT-kz-M?si=1xI3GFAEDAi0m0b_
 [Rock Bottom — Live]: https://youtu.be/fEMzoyfoOfI?si=lyG-_odjk5VPLIDq
@@ -33,3 +35,5 @@ and a track by each:
 [Pink Maggit]: https://youtu.be/v8f8WQ85Qb0?si=paAdWxrole7w5ScQ
 [Oreos (w/ Cam O'bi & J. Ivy)]: https://rejjiesnow.bandcamp.com/track/oreos
 [The Caliphate (w/ The Alchemist, feat. Vince Staples)]: https://youtu.be/DjLeA9yS2ek?si=vYuoXwiR8hNyM5r5
+[Break It Off]: https://soundcloud.com/pinkpantheress/break-it-off-1
+[Ivy]: https://youtu.be/AE005nZeF-A?si=ykG2UIi64U54C5ud
