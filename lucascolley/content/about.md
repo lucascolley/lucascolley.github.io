@@ -28,6 +28,7 @@ and how you can [contact me](#contact-me).
 
 ## News Articles
 
+- ["Lucas Colley awarded prize for outstanding performance in Computer Science and Philosophy"](https://www.chch.ox.ac.uk/news/lucas-colley-awarded-prize-outstanding-performance-computer-science-and-philosophy)
 - ["Lucas Colley made maintainer of impactful open-source library"](https://www.chch.ox.ac.uk/news/lucas-colley-made-maintainer-impactful-open-source-library)
 - ["Undergraduate praised for 'extraordinarily impactful' open-source work"](https://www.chch.ox.ac.uk/news/undergraduate-praised-extraordinarily-impactful-open-source-work)
 
