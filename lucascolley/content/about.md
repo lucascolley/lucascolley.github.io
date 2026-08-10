@@ -71,7 +71,7 @@ I was the Undergraduate Vice-President at Christ Church in 2024/25.
 I was awarded the following prizes:
 - The Hoare Prize for best overall performance in Computer Science and Philosophy 2026.
 - The Cipriani Prize in Computer Science for extracurricular work.
-- Book Prize for First Class Final Honours School performance.
+- The Roach Exam Prize for First Class Final Honours School performance.
 - [The
 Department of Computer Science Group Project Prize in 2024](https://www.cs.ox.ac.uk/news/2322-full.html).
 
