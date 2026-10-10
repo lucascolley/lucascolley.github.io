@@ -1,9 +1,17 @@
 - thing: prefix.dev
+  detail: Core Team
+  timeline: 2026 — Now
+  link: https://prefix.dev
+  description: |-
+    I maintain [Pixi](https://pixi.prefix.dev/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
+    I also work on the development of other related open source projects, like `rattler` and `rattler-build`.
+
+- thing: prefix.dev
   detail: Mentee (European Summer of Code)
   timeline: Summer 2025
   link: https://prefix.dev
   description: |-
-    I developed and maintained [Pixi](https://pixi.prefix.dev/), a cross-platform, cross-language package manager, written in Rust, built on top of the conda ecosystem.
+    I developed and maintained [Pixi](https://pixi.prefix.dev/).
     I co-wrote [this blog post](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions).
 
 - thing: Quansight Labs

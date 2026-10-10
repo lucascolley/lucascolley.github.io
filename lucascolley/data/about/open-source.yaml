@@ -28,11 +28,3 @@
   description: |-
     I am the primary author of array-api-extra, a library housing extra array-agnostic
     functions built on top of the array API standard.
-
-- thing: Other Open Source Projects
-  detail: Contributor
-  timeline: 2023 — Now
-  link: https://github.com/lucascolley
-  description: |-
-    I have contributed to various other projects, mostly in the Scientific
-    Python ecosystem and related ecosystems.

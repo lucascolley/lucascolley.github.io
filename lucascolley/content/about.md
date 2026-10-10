@@ -2,7 +2,7 @@
 title: "About Me"
 layout: single
 showReadingTime: false
-modified: 2026-07-25
+modified: 2026-10-10
 ---
 
 ![A photo of me](/lucas-headshot.png)
@@ -16,13 +16,14 @@ I am also a First Class MCompSciPhil graduate from the University of Oxford,
 having received The Hoare Prize for best overall performance in Computer Science and Philosophy 2026.
 See [Oxford](#oxford).
 
-My pronouns are he/him.
+I work at [prefix.dev], building open-source tools to
+solve packaging challenges for software engineers.
 
-See also [some news articles written about me](#news-articles), my [career interests](#career-interests), some of my [other interests](#other-interests),
-and how you can [contact me](#contact-me).
+My pronouns are he/him.
 
 [SciPy]: https://scipy.org
 [Pixi]: https://pixi.prefix.dev
+[prefix.dev]: https://prefix.dev/
 
 ---
 
@@ -136,24 +137,21 @@ In my college, I held the following positions:
 
 ---
 
-## Career Interests
-
-I am open to opportunities in the fields of Computer Science and Software Engineering,
-as well as their intersections with Philosophy, Politics, and Music.
-
-I would be particularly interested in any opportunities to apply my skills to
-empower workers and grassroots community organisations in the face of corporate hell.
-
-## Other Interests
+## Interests
 
 In my free time, I enjoy contributing to [free and open source software](#open-source-software),
 listening to [music](../music/), running, playing football and pool, and video games.
 
-I am broadly interested in politics, particularly in politics which aims to
-reduce inequality, increase democracy, and foster peace.
+I am broadly interested in critical theory and politics,
+particularly politics which aims to reduce inequality, increase democracy, and make change for peace.
 
 ---
 
 ## Contact Me
 
-You can email me at [lucas.colley8@gmail.com](mailto:lucas.colley8@gmail.com).
+You can email me at [lucascolley@proton.me](mailto:lucascolley@proton.me).
+
+My other authentic addresses have been:
+- lucas@prefix.dev
+- lucas.colley8@gmail.com
+- lucas.colley@chch.ox.ac.uk
